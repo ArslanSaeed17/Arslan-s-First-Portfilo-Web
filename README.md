@@ -1,87 +1,111 @@
-# First Portfolio Project
+# 🚀 Personal Portfolio — Arslan Saeed
 
-## Overview
+> A responsive personal portfolio website showcasing my skills, projects, education, and achievements as a Cyber Security student at UMT.
 
-This project is a personal portfolio website developed to showcase my skills, projects, education, and achievements. The portfolio serves as a professional online presence where visitors can learn more about me and explore my work.
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange)
+![Deployment](https://img.shields.io/badge/Deployed-Vercel-black)
+![License](https://img.shields.io/badge/License-Educational-blue)
 
-## Features
+---
 
-* Responsive and modern user interface
-* Home page with personal introduction
-* About Me section
-* Skills showcase
-* Projects gallery
-* Contact information
-* Mobile-friendly design
-* Clean and user-friendly navigation
+## 🌐 Live Demo
 
-## Technologies Used
+👉 [portfolio-web-nu-three-64.vercel.app](https://portfolio-web-nu-three-64.vercel.app/)
 
-### Frontend
+---
 
-* HTML5
-* CSS3
-* JavaScript
+## 📌 About
 
-### Additional Tools
+This is my first portfolio project — a professional online presence built from scratch using pure HTML, CSS, and JavaScript. It is designed to give recruiters, employers, and fellow developers a quick overview of who I am, what I can do, and what I have built.
 
-* Git
-* GitHub
+---
 
-## Project Structure
+## ✨ Features
 
-```text
-project-root/
+- 🏠 Home page with personal introduction
+- 👤 About Me section
+- 🛠️ Skills showcase
+- 📂 Projects gallery
+- 📬 Contact information
+- 📱 Fully responsive — mobile friendly
+- 🎨 Clean, modern, and user-friendly navigation
+
+---
+
+## 📁 Project Structure
+
+```
+portfolio/
 │
-├── index.html
-│
+├── index.html        # Main entry point
 ├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+│   └── style.css     # All styling and responsive design
+└── js/
+    └── script.js     # Interactivity and animations
 ```
 
-2. Navigate to the project folder:
+---
 
+## ⚙️ Local Setup
+
+### 1. Clone the repository
 ```bash
-cd YOUR_REPOSITORY
+git clone https://github.com/ArslanSaeed/portfolio.git
+cd portfolio
 ```
 
-3. Open `index.html` in your browser.
-   
-## Usage
+### 2. Open in browser
+```bash
+# Simply open index.html in your browser
+# OR use Live Server in VS Code (recommended)
+```
 
-This portfolio can be used to:
+> No build step, no dependencies — pure HTML/CSS/JS. ✅
 
-* Showcase personal projects
-* Present technical skills
-* Share educational background
-* Provide contact information to recruiters and employers
+---
 
-## Future Enhancements
+## 🛠️ Tech Stack
 
-* Dark mode support
-* Blog section
-* Downloadable resume
-* Project filtering system
-* Backend integration for contact form
+| Layer | Technology |
+|-------|-----------|
+| Structure | HTML5 |
+| Styling | CSS3 |
+| Interactivity | JavaScript |
+| Version Control | Git & GitHub |
+| Deployment | Vercel |
 
-## Author
+---
 
-**Arslan**
+## 🔮 Future Enhancements
 
-Cyber Security Student
-University of Management and Technology (UMT)
+- [ ] Dark mode toggle
+- [ ] Blog section
+- [ ] Downloadable resume (PDF)
+- [ ] Project filtering system
+- [ ] Backend integration for contact form
+- [ ] Animations with GSAP or Framer Motion
 
-## License
+---
 
-This project is developed for educational and portfolio purposes.
+## 👨‍💻 Author
+
+**Arslan Saeed**
+- 🎓 Cyber Security Student — University of Management and Technology (UMT), Lahore
+- 📧 [arslanbrall@gmail.com](mailto:arslanbrall@gmail.com)
+- 💬 WhatsApp: [+92 300 8971489](https://wa.me/923008971489)
+- 🌐 [Live Portfolio](https://portfolio-web-nu-three-64.vercel.app/)
+
+---
+
+## 📄 License
+
+This project is developed for educational and portfolio purposes.  
+Feel free to use it as inspiration for your own portfolio. ⭐
+
+---
+
+<div align="center">
+  <strong>Built with ❤️ by Arslan Saeed</strong><br/>
+  <sub>Cyber Security Student · UMT Lahore</sub>
+</div>
