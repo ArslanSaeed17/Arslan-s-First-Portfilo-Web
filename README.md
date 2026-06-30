@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-👉 [portfolio-web-nu-three-64.vercel.app](Arslansaeed.live)
+👉 [portfolio-web-nu-three-64.vercel.app](portfolio-web-nu-three-64.vercel.app)
 
 ---
 
@@ -94,7 +94,7 @@ cd portfolio
 - 🎓 Cyber Security Student — University of Management and Technology (UMT), Lahore
 - 📧 [arslanbrall@gmail.com](mailto:arslanbrall@gmail.com)
 - 💬 WhatsApp: [+92 300 8971489](https://wa.me/923008971489)
-- 🌐 [Live Portfolio](https://portfolio-web-nu-three-64.vercel.app/)
+- 🌐 [Live Portfolio](arslansaeed.live)
 
 ---
 
